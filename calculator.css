@@ -1,0 +1,50 @@
+body{
+  margin-top: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: black;
+  margin-left: 30px;
+}
+
+.cal-title{
+  color: white;
+  font-size: 30px;
+  font-weight: bold
+}
+
+.cal{
+  background-color: rgb(255,153,0);
+  color: black;
+  padding: 10px 3px 10px 3px;
+  border-radius: 10px;
+}
+
+.calculation{
+  color: white;
+  font-size: 45px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+.calculator-btn{
+  height: 60px;
+  width: 60px;
+  border-radius: 60px;
+  border:none;
+  font-size: 26px;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.gray-btn{
+  background-color: rgb(51,51,51);
+  color: white;
+}
+
+.orange-btn{
+  background-color: rgb(254,153,0);
+  color: white;
+}
+
+.clear-btn{
+  font-size: 20px;
+}
